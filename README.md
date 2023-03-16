@@ -3,7 +3,7 @@
 * By simply giving the command ‘use dbname’ we can create the database in Mongodb.<br>
 * After that we need to make a collection which is analogous to tables in SQL.<br>
 * I have created database called mongoDB_assignment and collection called records.<br>
-* 
+
 
 
 ### Question 1
